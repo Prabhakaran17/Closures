@@ -1,0 +1,7 @@
+const number1 = 10;
+const addition =()=>{
+  const number2 = 10;
+  return number1+number2;
+ };
+ addition();
+ 
